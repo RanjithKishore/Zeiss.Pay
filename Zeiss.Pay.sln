@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeiss.Pay.PaySlip", "Zeiss.Pay.PaySlip\Zeiss.Pay.PaySlip.csproj", "{C39C17CF-D103-4365-A62F-A3A21800842E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeiss.Pay.DataAccess", "Zeiss.Pay.DataAccess\Zeiss.Pay.DataAccess.csproj", "{68BD2D83-A68D-495C-9671-78331DCB1F90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeiss.Pay.Business", "Zeiss.Pay.Business\Zeiss.Pay.Business.csproj", "{28E1E645-D601-4A50-9893-6145FEE271BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C39C17CF-D103-4365-A62F-A3A21800842E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C39C17CF-D103-4365-A62F-A3A21800842E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C39C17CF-D103-4365-A62F-A3A21800842E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C39C17CF-D103-4365-A62F-A3A21800842E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68BD2D83-A68D-495C-9671-78331DCB1F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BD2D83-A68D-495C-9671-78331DCB1F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BD2D83-A68D-495C-9671-78331DCB1F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BD2D83-A68D-495C-9671-78331DCB1F90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28E1E645-D601-4A50-9893-6145FEE271BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E1E645-D601-4A50-9893-6145FEE271BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E1E645-D601-4A50-9893-6145FEE271BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E1E645-D601-4A50-9893-6145FEE271BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6D6DE7B-72AC-4709-A0E8-55467EA63FE7}
+	EndGlobalSection
+EndGlobal
